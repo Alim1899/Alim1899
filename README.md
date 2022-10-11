@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Alim1899
+- 👋 Hi, I’m  Alim Akhchanogli (@Alim1899)
 - 👀 I’m interested in Web-Development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript, React
 - 💞️ I’m looking to collaborate on Every project where i can improve my skills
 - 📫 How to reach me alimakhchanogli@gmail.com
 
