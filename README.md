@@ -1,10 +1,11 @@
-- 👋 Hi, I’m  Alim Akhchanogli (@Alim1899)
-- 👀 I’m interested in Web-Development
-- 🌱 I’m currently learning javascript, React
-- 💞️ I’m looking to collaborate on Every project where i can improve my skills
-- 📫 How to reach me alimakhchanogli@gmail.com
+👋 Hi, I’m Alim Akhchanogli (@Alim1899)
 
-<!---
-Alim1899/Alim1899 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 I'm a Front-End Developer diving into Full-Stack Development with Node.js
+
+🚀 Currently working on interactive maps, real-time apps, and performance-optimized UIs
+
+🌱 Currently learning Node.js to build scalable backends
+
+🤝 Open to collaboration on projects involving React, Firebase, or geospatial tech
+
+📫 Reach me at: alimakhchanogli@gmail.com
